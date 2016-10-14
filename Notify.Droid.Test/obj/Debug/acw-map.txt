@@ -1,0 +1,360 @@
+Notify.Droid.Test.MainActivity, Notify.Droid.Test;md5b6044c1f1b6dd78b64f9dffef042b931.MainActivity
+Notify.Droid.Test.MainActivity, Notify.Droid.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b6044c1f1b6dd78b64f9dffef042b931.MainActivity
+Notify.Droid.Test.MainActivity;md5b6044c1f1b6dd78b64f9dffef042b931.MainActivity
+notify.droid.test.MainActivity;md5b6044c1f1b6dd78b64f9dffef042b931.MainActivity
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager+IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader+IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat/IOnActiveChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat+IOnActiveChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat.IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+IVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat+IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat.IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout+IDrawerListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout+IPanelSlideListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout+IOnRefreshListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.CellAdapter
+Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.CellAdapter
+Xamarin.Forms.Platform.Android.CellAdapter;md5282f1122c1313907b9bf274dd2c2f344.CellAdapter
+xamarin.forms.platform.android.CellAdapter;md5282f1122c1313907b9bf274dd2c2f344.CellAdapter
+Xamarin.Forms.Platform.Android.FormsApplicationActivity, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.FormsApplicationActivity
+Xamarin.Forms.Platform.Android.FormsApplicationActivity, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.FormsApplicationActivity
+Xamarin.Forms.Platform.Android.FormsApplicationActivity;md5282f1122c1313907b9bf274dd2c2f344.FormsApplicationActivity
+xamarin.forms.platform.android.FormsApplicationActivity;md5282f1122c1313907b9bf274dd2c2f344.FormsApplicationActivity
+Xamarin.Forms.Platform.Android.AndroidActivity, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.AndroidActivity
+Xamarin.Forms.Platform.Android.AndroidActivity, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.AndroidActivity
+Xamarin.Forms.Platform.Android.AndroidActivity;md5282f1122c1313907b9bf274dd2c2f344.AndroidActivity
+xamarin.forms.platform.android.AndroidActivity;md5282f1122c1313907b9bf274dd2c2f344.AndroidActivity
+Xamarin.Forms.Platform.Android.BaseCellView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.BaseCellView
+Xamarin.Forms.Platform.Android.BaseCellView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.BaseCellView
+Xamarin.Forms.Platform.Android.BaseCellView;md5282f1122c1313907b9bf274dd2c2f344.BaseCellView
+xamarin.forms.platform.android.BaseCellView;md5282f1122c1313907b9bf274dd2c2f344.BaseCellView
+Xamarin.Forms.Platform.Android.CellRenderer/RendererHolder, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.CellRenderer_RendererHolder
+Xamarin.Forms.Platform.Android.CellRenderer+RendererHolder, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.CellRenderer_RendererHolder
+Xamarin.Forms.Platform.Android.CellRenderer.RendererHolder;md5282f1122c1313907b9bf274dd2c2f344.CellRenderer_RendererHolder
+xamarin.forms.platform.android.CellRenderer_RendererHolder;md5282f1122c1313907b9bf274dd2c2f344.CellRenderer_RendererHolder
+Xamarin.Forms.Platform.Android.EntryCellEditText, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.EntryCellEditText
+Xamarin.Forms.Platform.Android.EntryCellEditText, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.EntryCellEditText
+Xamarin.Forms.Platform.Android.EntryCellEditText;md5282f1122c1313907b9bf274dd2c2f344.EntryCellEditText
+xamarin.forms.platform.android.EntryCellEditText;md5282f1122c1313907b9bf274dd2c2f344.EntryCellEditText
+Xamarin.Forms.Platform.Android.EntryCellView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.EntryCellView
+Xamarin.Forms.Platform.Android.EntryCellView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.EntryCellView
+Xamarin.Forms.Platform.Android.EntryCellView;md5282f1122c1313907b9bf274dd2c2f344.EntryCellView
+xamarin.forms.platform.android.EntryCellView;md5282f1122c1313907b9bf274dd2c2f344.EntryCellView
+Xamarin.Forms.Platform.Android.SwitchCellView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.SwitchCellView
+Xamarin.Forms.Platform.Android.SwitchCellView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.SwitchCellView
+Xamarin.Forms.Platform.Android.SwitchCellView;md5282f1122c1313907b9bf274dd2c2f344.SwitchCellView
+xamarin.forms.platform.android.SwitchCellView;md5282f1122c1313907b9bf274dd2c2f344.SwitchCellView
+Xamarin.Forms.Platform.Android.TextCellRenderer/TextCellView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.TextCellRenderer_TextCellView
+Xamarin.Forms.Platform.Android.TextCellRenderer+TextCellView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.TextCellRenderer_TextCellView
+Xamarin.Forms.Platform.Android.TextCellRenderer.TextCellView;md5282f1122c1313907b9bf274dd2c2f344.TextCellRenderer_TextCellView
+xamarin.forms.platform.android.TextCellRenderer_TextCellView;md5282f1122c1313907b9bf274dd2c2f344.TextCellRenderer_TextCellView
+Xamarin.Forms.Platform.Android.ViewCellRenderer/ViewCellContainer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ViewCellRenderer_ViewCellContainer
+Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ViewCellRenderer_ViewCellContainer
+Xamarin.Forms.Platform.Android.ViewCellRenderer.ViewCellContainer;md5282f1122c1313907b9bf274dd2c2f344.ViewCellRenderer_ViewCellContainer
+xamarin.forms.platform.android.ViewCellRenderer_ViewCellContainer;md5282f1122c1313907b9bf274dd2c2f344.ViewCellRenderer_ViewCellContainer
+Xamarin.Forms.Platform.Android.GenericMenuClickListener, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.GenericMenuClickListener
+Xamarin.Forms.Platform.Android.GenericMenuClickListener, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.GenericMenuClickListener
+Xamarin.Forms.Platform.Android.GenericMenuClickListener;md5282f1122c1313907b9bf274dd2c2f344.GenericMenuClickListener
+xamarin.forms.platform.android.GenericMenuClickListener;md5282f1122c1313907b9bf274dd2c2f344.GenericMenuClickListener
+Xamarin.Forms.Platform.Android.ViewRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer
+Xamarin.Forms.Platform.Android.ViewRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer
+Xamarin.Forms.Platform.Android.ViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer
+xamarin.forms.platform.android.ViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer
+Xamarin.Forms.Platform.Android.ViewRenderer`2, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer_2
+Xamarin.Forms.Platform.Android.ViewRenderer`2, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer_2
+Xamarin.Forms.Platform.Android.ViewRenderer`2;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer_2
+xamarin.forms.platform.android.ViewRenderer_2;md5282f1122c1313907b9bf274dd2c2f344.ViewRenderer_2
+Xamarin.Forms.Platform.Android.PlatformRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.PlatformRenderer
+Xamarin.Forms.Platform.Android.PlatformRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.PlatformRenderer
+Xamarin.Forms.Platform.Android.PlatformRenderer;md5282f1122c1313907b9bf274dd2c2f344.PlatformRenderer
+xamarin.forms.platform.android.PlatformRenderer;md5282f1122c1313907b9bf274dd2c2f344.PlatformRenderer
+Xamarin.Forms.Platform.Android.RendererFactory/DefaultRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.RendererFactory_DefaultRenderer
+Xamarin.Forms.Platform.Android.RendererFactory+DefaultRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.RendererFactory_DefaultRenderer
+Xamarin.Forms.Platform.Android.RendererFactory.DefaultRenderer;md5282f1122c1313907b9bf274dd2c2f344.RendererFactory_DefaultRenderer
+xamarin.forms.platform.android.RendererFactory_DefaultRenderer;md5282f1122c1313907b9bf274dd2c2f344.RendererFactory_DefaultRenderer
+Xamarin.Forms.Platform.Android.ActionSheetRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ActionSheetRenderer
+Xamarin.Forms.Platform.Android.ActionSheetRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ActionSheetRenderer
+Xamarin.Forms.Platform.Android.ActionSheetRenderer;md5282f1122c1313907b9bf274dd2c2f344.ActionSheetRenderer
+xamarin.forms.platform.android.ActionSheetRenderer;md5282f1122c1313907b9bf274dd2c2f344.ActionSheetRenderer
+Xamarin.Forms.Platform.Android.ActivityIndicatorRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ActivityIndicatorRenderer
+Xamarin.Forms.Platform.Android.ActivityIndicatorRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ActivityIndicatorRenderer
+Xamarin.Forms.Platform.Android.ActivityIndicatorRenderer;md5282f1122c1313907b9bf274dd2c2f344.ActivityIndicatorRenderer
+xamarin.forms.platform.android.ActivityIndicatorRenderer;md5282f1122c1313907b9bf274dd2c2f344.ActivityIndicatorRenderer
+Xamarin.Forms.Platform.Android.BoxRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.BoxRenderer
+Xamarin.Forms.Platform.Android.BoxRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.BoxRenderer
+Xamarin.Forms.Platform.Android.BoxRenderer;md5282f1122c1313907b9bf274dd2c2f344.BoxRenderer
+xamarin.forms.platform.android.BoxRenderer;md5282f1122c1313907b9bf274dd2c2f344.BoxRenderer
+Xamarin.Forms.Platform.Android.ButtonDrawable, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ButtonDrawable
+Xamarin.Forms.Platform.Android.ButtonDrawable, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ButtonDrawable
+Xamarin.Forms.Platform.Android.ButtonDrawable;md5282f1122c1313907b9bf274dd2c2f344.ButtonDrawable
+xamarin.forms.platform.android.ButtonDrawable;md5282f1122c1313907b9bf274dd2c2f344.ButtonDrawable
+Xamarin.Forms.Platform.Android.ButtonRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer
+Xamarin.Forms.Platform.Android.ButtonRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer
+Xamarin.Forms.Platform.Android.ButtonRenderer;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer
+xamarin.forms.platform.android.ButtonRenderer;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer
+Xamarin.Forms.Platform.Android.ButtonRenderer/ButtonClickListener, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer_ButtonClickListener
+Xamarin.Forms.Platform.Android.ButtonRenderer+ButtonClickListener, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer_ButtonClickListener
+Xamarin.Forms.Platform.Android.ButtonRenderer.ButtonClickListener;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer_ButtonClickListener
+xamarin.forms.platform.android.ButtonRenderer_ButtonClickListener;md5282f1122c1313907b9bf274dd2c2f344.ButtonRenderer_ButtonClickListener
+Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageRenderer
+Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageRenderer
+Xamarin.Forms.Platform.Android.CarouselPageRenderer;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageRenderer
+xamarin.forms.platform.android.CarouselPageRenderer;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageRenderer
+Xamarin.Forms.Platform.Android.DatePickerRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer
+Xamarin.Forms.Platform.Android.DatePickerRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer
+Xamarin.Forms.Platform.Android.DatePickerRenderer;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer
+xamarin.forms.platform.android.DatePickerRenderer;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer
+Xamarin.Forms.Platform.Android.DatePickerRenderer/TextFieldClickHandler, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer_TextFieldClickHandler
+Xamarin.Forms.Platform.Android.DatePickerRenderer+TextFieldClickHandler, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer_TextFieldClickHandler
+Xamarin.Forms.Platform.Android.DatePickerRenderer.TextFieldClickHandler;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer_TextFieldClickHandler
+xamarin.forms.platform.android.DatePickerRenderer_TextFieldClickHandler;md5282f1122c1313907b9bf274dd2c2f344.DatePickerRenderer_TextFieldClickHandler
+Xamarin.Forms.Platform.Android.EditorEditText, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.EditorEditText
+Xamarin.Forms.Platform.Android.EditorEditText, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.EditorEditText
+Xamarin.Forms.Platform.Android.EditorEditText;md5282f1122c1313907b9bf274dd2c2f344.EditorEditText
+xamarin.forms.platform.android.EditorEditText;md5282f1122c1313907b9bf274dd2c2f344.EditorEditText
+Xamarin.Forms.Platform.Android.EditorRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.EditorRenderer
+Xamarin.Forms.Platform.Android.EditorRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.EditorRenderer
+Xamarin.Forms.Platform.Android.EditorRenderer;md5282f1122c1313907b9bf274dd2c2f344.EditorRenderer
+xamarin.forms.platform.android.EditorRenderer;md5282f1122c1313907b9bf274dd2c2f344.EditorRenderer
+Xamarin.Forms.Platform.Android.EntryEditText, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.EntryEditText
+Xamarin.Forms.Platform.Android.EntryEditText, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.EntryEditText
+Xamarin.Forms.Platform.Android.EntryEditText;md5282f1122c1313907b9bf274dd2c2f344.EntryEditText
+xamarin.forms.platform.android.EntryEditText;md5282f1122c1313907b9bf274dd2c2f344.EntryEditText
+Xamarin.Forms.Platform.Android.EntryRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.EntryRenderer
+Xamarin.Forms.Platform.Android.EntryRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.EntryRenderer
+Xamarin.Forms.Platform.Android.EntryRenderer;md5282f1122c1313907b9bf274dd2c2f344.EntryRenderer
+xamarin.forms.platform.android.EntryRenderer;md5282f1122c1313907b9bf274dd2c2f344.EntryRenderer
+Xamarin.Forms.Platform.Android.FrameRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer
+Xamarin.Forms.Platform.Android.FrameRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer
+Xamarin.Forms.Platform.Android.FrameRenderer;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer
+xamarin.forms.platform.android.FrameRenderer;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer
+Xamarin.Forms.Platform.Android.FrameRenderer/FrameDrawable, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer_FrameDrawable
+Xamarin.Forms.Platform.Android.FrameRenderer+FrameDrawable, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer_FrameDrawable
+Xamarin.Forms.Platform.Android.FrameRenderer.FrameDrawable;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer_FrameDrawable
+xamarin.forms.platform.android.FrameRenderer_FrameDrawable;md5282f1122c1313907b9bf274dd2c2f344.FrameRenderer_FrameDrawable
+Xamarin.Forms.Platform.Android.FormsImageView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.FormsImageView
+Xamarin.Forms.Platform.Android.FormsImageView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.FormsImageView
+Xamarin.Forms.Platform.Android.FormsImageView;md5282f1122c1313907b9bf274dd2c2f344.FormsImageView
+xamarin.forms.platform.android.FormsImageView;md5282f1122c1313907b9bf274dd2c2f344.FormsImageView
+Xamarin.Forms.Platform.Android.ImageRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ImageRenderer
+Xamarin.Forms.Platform.Android.ImageRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ImageRenderer
+Xamarin.Forms.Platform.Android.ImageRenderer;md5282f1122c1313907b9bf274dd2c2f344.ImageRenderer
+xamarin.forms.platform.android.ImageRenderer;md5282f1122c1313907b9bf274dd2c2f344.ImageRenderer
+Xamarin.Forms.Platform.Android.FormattedStringExtensions/FontSpan, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.FormattedStringExtensions_FontSpan
+Xamarin.Forms.Platform.Android.FormattedStringExtensions+FontSpan, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.FormattedStringExtensions_FontSpan
+Xamarin.Forms.Platform.Android.FormattedStringExtensions.FontSpan;md5282f1122c1313907b9bf274dd2c2f344.FormattedStringExtensions_FontSpan
+xamarin.forms.platform.android.FormattedStringExtensions_FontSpan;md5282f1122c1313907b9bf274dd2c2f344.FormattedStringExtensions_FontSpan
+Xamarin.Forms.Platform.Android.FormsTextView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.FormsTextView
+Xamarin.Forms.Platform.Android.FormsTextView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.FormsTextView
+Xamarin.Forms.Platform.Android.FormsTextView;md5282f1122c1313907b9bf274dd2c2f344.FormsTextView
+xamarin.forms.platform.android.FormsTextView;md5282f1122c1313907b9bf274dd2c2f344.FormsTextView
+Xamarin.Forms.Platform.Android.LabelRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.LabelRenderer
+Xamarin.Forms.Platform.Android.LabelRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.LabelRenderer
+Xamarin.Forms.Platform.Android.LabelRenderer;md5282f1122c1313907b9bf274dd2c2f344.LabelRenderer
+xamarin.forms.platform.android.LabelRenderer;md5282f1122c1313907b9bf274dd2c2f344.LabelRenderer
+Xamarin.Forms.Platform.Android.ConditionalFocusLayout, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ConditionalFocusLayout
+Xamarin.Forms.Platform.Android.ConditionalFocusLayout, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ConditionalFocusLayout
+Xamarin.Forms.Platform.Android.ConditionalFocusLayout;md5282f1122c1313907b9bf274dd2c2f344.ConditionalFocusLayout
+xamarin.forms.platform.android.ConditionalFocusLayout;md5282f1122c1313907b9bf274dd2c2f344.ConditionalFocusLayout
+Xamarin.Forms.Platform.Android.ListViewAdapter, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ListViewAdapter
+Xamarin.Forms.Platform.Android.ListViewAdapter, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ListViewAdapter
+Xamarin.Forms.Platform.Android.ListViewAdapter;md5282f1122c1313907b9bf274dd2c2f344.ListViewAdapter
+xamarin.forms.platform.android.ListViewAdapter;md5282f1122c1313907b9bf274dd2c2f344.ListViewAdapter
+Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer
+Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer
+Xamarin.Forms.Platform.Android.ListViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer
+xamarin.forms.platform.android.ListViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer
+Xamarin.Forms.Platform.Android.ListViewRenderer/Container, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer_Container
+Xamarin.Forms.Platform.Android.ListViewRenderer+Container, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer_Container
+Xamarin.Forms.Platform.Android.ListViewRenderer.Container;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer_Container
+xamarin.forms.platform.android.ListViewRenderer_Container;md5282f1122c1313907b9bf274dd2c2f344.ListViewRenderer_Container
+Xamarin.Forms.Platform.Android.MasterDetailContainer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailContainer
+Xamarin.Forms.Platform.Android.MasterDetailContainer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailContainer
+Xamarin.Forms.Platform.Android.MasterDetailContainer;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailContainer
+xamarin.forms.platform.android.MasterDetailContainer;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailContainer
+Xamarin.Forms.Platform.Android.MasterDetailRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailRenderer
+Xamarin.Forms.Platform.Android.MasterDetailRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailRenderer
+Xamarin.Forms.Platform.Android.MasterDetailRenderer;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailRenderer
+xamarin.forms.platform.android.MasterDetailRenderer;md5282f1122c1313907b9bf274dd2c2f344.MasterDetailRenderer
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer
+xamarin.forms.platform.android.NavigationMenuRenderer;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer/MenuElementView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuElementView
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer+MenuElementView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuElementView
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer.MenuElementView;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuElementView
+xamarin.forms.platform.android.NavigationMenuRenderer_MenuElementView;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuElementView
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer/MenuAdapter, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuAdapter
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer+MenuAdapter, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuAdapter
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer.MenuAdapter;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuAdapter
+xamarin.forms.platform.android.NavigationMenuRenderer_MenuAdapter;md5282f1122c1313907b9bf274dd2c2f344.NavigationMenuRenderer_MenuAdapter
+Xamarin.Forms.Platform.Android.GenericAnimatorListener, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.GenericAnimatorListener
+Xamarin.Forms.Platform.Android.GenericAnimatorListener, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.GenericAnimatorListener
+Xamarin.Forms.Platform.Android.GenericAnimatorListener;md5282f1122c1313907b9bf274dd2c2f344.GenericAnimatorListener
+xamarin.forms.platform.android.GenericAnimatorListener;md5282f1122c1313907b9bf274dd2c2f344.GenericAnimatorListener
+Xamarin.Forms.Platform.Android.NavigationRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.NavigationRenderer
+Xamarin.Forms.Platform.Android.NavigationRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.NavigationRenderer
+Xamarin.Forms.Platform.Android.NavigationRenderer;md5282f1122c1313907b9bf274dd2c2f344.NavigationRenderer
+xamarin.forms.platform.android.NavigationRenderer;md5282f1122c1313907b9bf274dd2c2f344.NavigationRenderer
+Xamarin.Forms.Platform.Android.ObjectJavaBox`1, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ObjectJavaBox_1
+Xamarin.Forms.Platform.Android.ObjectJavaBox`1, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ObjectJavaBox_1
+Xamarin.Forms.Platform.Android.ObjectJavaBox`1;md5282f1122c1313907b9bf274dd2c2f344.ObjectJavaBox_1
+xamarin.forms.platform.android.ObjectJavaBox_1;md5282f1122c1313907b9bf274dd2c2f344.ObjectJavaBox_1
+Xamarin.Forms.Platform.Android.PageContainer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.PageContainer
+Xamarin.Forms.Platform.Android.PageContainer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.PageContainer
+Xamarin.Forms.Platform.Android.PageContainer;md5282f1122c1313907b9bf274dd2c2f344.PageContainer
+xamarin.forms.platform.android.PageContainer;md5282f1122c1313907b9bf274dd2c2f344.PageContainer
+Xamarin.Forms.Platform.Android.CarouselPageAdapter, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageAdapter
+Xamarin.Forms.Platform.Android.CarouselPageAdapter, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageAdapter
+Xamarin.Forms.Platform.Android.CarouselPageAdapter;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageAdapter
+xamarin.forms.platform.android.CarouselPageAdapter;md5282f1122c1313907b9bf274dd2c2f344.CarouselPageAdapter
+Xamarin.Forms.Platform.Android.PageRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.PageRenderer
+Xamarin.Forms.Platform.Android.PageRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.PageRenderer
+Xamarin.Forms.Platform.Android.PageRenderer;md5282f1122c1313907b9bf274dd2c2f344.PageRenderer
+xamarin.forms.platform.android.PageRenderer;md5282f1122c1313907b9bf274dd2c2f344.PageRenderer
+Xamarin.Forms.Platform.Android.ProgressBarRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ProgressBarRenderer
+Xamarin.Forms.Platform.Android.ProgressBarRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ProgressBarRenderer
+Xamarin.Forms.Platform.Android.ProgressBarRenderer;md5282f1122c1313907b9bf274dd2c2f344.ProgressBarRenderer
+xamarin.forms.platform.android.ProgressBarRenderer;md5282f1122c1313907b9bf274dd2c2f344.ProgressBarRenderer
+Xamarin.Forms.Platform.Android.ScrollViewContainer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewContainer
+Xamarin.Forms.Platform.Android.ScrollViewContainer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewContainer
+Xamarin.Forms.Platform.Android.ScrollViewContainer;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewContainer
+xamarin.forms.platform.android.ScrollViewContainer;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewContainer
+Xamarin.Forms.Platform.Android.ScrollViewRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewRenderer
+Xamarin.Forms.Platform.Android.ScrollViewRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewRenderer
+Xamarin.Forms.Platform.Android.ScrollViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewRenderer
+xamarin.forms.platform.android.ScrollViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.ScrollViewRenderer
+Xamarin.Forms.Platform.Android.AHorizontalScrollView, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.AHorizontalScrollView
+Xamarin.Forms.Platform.Android.AHorizontalScrollView, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.AHorizontalScrollView
+Xamarin.Forms.Platform.Android.AHorizontalScrollView;md5282f1122c1313907b9bf274dd2c2f344.AHorizontalScrollView
+xamarin.forms.platform.android.AHorizontalScrollView;md5282f1122c1313907b9bf274dd2c2f344.AHorizontalScrollView
+Xamarin.Forms.Platform.Android.SearchBarRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.SearchBarRenderer
+Xamarin.Forms.Platform.Android.SearchBarRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.SearchBarRenderer
+Xamarin.Forms.Platform.Android.SearchBarRenderer;md5282f1122c1313907b9bf274dd2c2f344.SearchBarRenderer
+xamarin.forms.platform.android.SearchBarRenderer;md5282f1122c1313907b9bf274dd2c2f344.SearchBarRenderer
+Xamarin.Forms.Platform.Android.SliderRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.SliderRenderer
+Xamarin.Forms.Platform.Android.SliderRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.SliderRenderer
+Xamarin.Forms.Platform.Android.SliderRenderer;md5282f1122c1313907b9bf274dd2c2f344.SliderRenderer
+xamarin.forms.platform.android.SliderRenderer;md5282f1122c1313907b9bf274dd2c2f344.SliderRenderer
+Xamarin.Forms.Platform.Android.StepperRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer
+Xamarin.Forms.Platform.Android.StepperRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer
+Xamarin.Forms.Platform.Android.StepperRenderer;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer
+xamarin.forms.platform.android.StepperRenderer;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer
+Xamarin.Forms.Platform.Android.StepperRenderer/StepperListener, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer_StepperListener
+Xamarin.Forms.Platform.Android.StepperRenderer+StepperListener, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer_StepperListener
+Xamarin.Forms.Platform.Android.StepperRenderer.StepperListener;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer_StepperListener
+xamarin.forms.platform.android.StepperRenderer_StepperListener;md5282f1122c1313907b9bf274dd2c2f344.StepperRenderer_StepperListener
+Xamarin.Forms.Platform.Android.SwitchRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.SwitchRenderer
+Xamarin.Forms.Platform.Android.SwitchRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.SwitchRenderer
+Xamarin.Forms.Platform.Android.SwitchRenderer;md5282f1122c1313907b9bf274dd2c2f344.SwitchRenderer
+xamarin.forms.platform.android.SwitchRenderer;md5282f1122c1313907b9bf274dd2c2f344.SwitchRenderer
+Xamarin.Forms.Platform.Android.TabbedRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.TabbedRenderer
+Xamarin.Forms.Platform.Android.TabbedRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.TabbedRenderer
+Xamarin.Forms.Platform.Android.TabbedRenderer;md5282f1122c1313907b9bf274dd2c2f344.TabbedRenderer
+xamarin.forms.platform.android.TabbedRenderer;md5282f1122c1313907b9bf274dd2c2f344.TabbedRenderer
+Xamarin.Forms.Platform.Android.TableViewModelRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.TableViewModelRenderer
+Xamarin.Forms.Platform.Android.TableViewModelRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.TableViewModelRenderer
+Xamarin.Forms.Platform.Android.TableViewModelRenderer;md5282f1122c1313907b9bf274dd2c2f344.TableViewModelRenderer
+xamarin.forms.platform.android.TableViewModelRenderer;md5282f1122c1313907b9bf274dd2c2f344.TableViewModelRenderer
+Xamarin.Forms.Platform.Android.TableViewRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.TableViewRenderer
+Xamarin.Forms.Platform.Android.TableViewRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.TableViewRenderer
+Xamarin.Forms.Platform.Android.TableViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.TableViewRenderer
+xamarin.forms.platform.android.TableViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.TableViewRenderer
+Xamarin.Forms.Platform.Android.TimePickerRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer
+Xamarin.Forms.Platform.Android.TimePickerRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer
+Xamarin.Forms.Platform.Android.TimePickerRenderer;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer
+xamarin.forms.platform.android.TimePickerRenderer;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer
+Xamarin.Forms.Platform.Android.TimePickerRenderer/TimePickerListener, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer_TimePickerListener
+Xamarin.Forms.Platform.Android.TimePickerRenderer+TimePickerListener, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer_TimePickerListener
+Xamarin.Forms.Platform.Android.TimePickerRenderer.TimePickerListener;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer_TimePickerListener
+xamarin.forms.platform.android.TimePickerRenderer_TimePickerListener;md5282f1122c1313907b9bf274dd2c2f344.TimePickerRenderer_TimePickerListener
+Xamarin.Forms.Platform.Android.ToolbarRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ToolbarRenderer
+Xamarin.Forms.Platform.Android.ToolbarRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ToolbarRenderer
+Xamarin.Forms.Platform.Android.ToolbarRenderer;md5282f1122c1313907b9bf274dd2c2f344.ToolbarRenderer
+xamarin.forms.platform.android.ToolbarRenderer;md5282f1122c1313907b9bf274dd2c2f344.ToolbarRenderer
+Xamarin.Forms.Platform.Android.ToolbarButton, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ToolbarButton
+Xamarin.Forms.Platform.Android.ToolbarButton, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ToolbarButton
+Xamarin.Forms.Platform.Android.ToolbarButton;md5282f1122c1313907b9bf274dd2c2f344.ToolbarButton
+xamarin.forms.platform.android.ToolbarButton;md5282f1122c1313907b9bf274dd2c2f344.ToolbarButton
+Xamarin.Forms.Platform.Android.ToolbarImageButton, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.ToolbarImageButton
+Xamarin.Forms.Platform.Android.ToolbarImageButton, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.ToolbarImageButton
+Xamarin.Forms.Platform.Android.ToolbarImageButton;md5282f1122c1313907b9bf274dd2c2f344.ToolbarImageButton
+xamarin.forms.platform.android.ToolbarImageButton;md5282f1122c1313907b9bf274dd2c2f344.ToolbarImageButton
+Xamarin.Forms.Platform.Android.WebViewRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer
+Xamarin.Forms.Platform.Android.WebViewRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer
+Xamarin.Forms.Platform.Android.WebViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer
+xamarin.forms.platform.android.WebViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer
+Xamarin.Forms.Platform.Android.WebViewRenderer/WebClient, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer_WebClient
+Xamarin.Forms.Platform.Android.WebViewRenderer+WebClient, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer_WebClient
+Xamarin.Forms.Platform.Android.WebViewRenderer.WebClient;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer_WebClient
+xamarin.forms.platform.android.WebViewRenderer_WebClient;md5282f1122c1313907b9bf274dd2c2f344.WebViewRenderer_WebClient
+Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.VisualElementRenderer_1
+Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.VisualElementRenderer_1
+Xamarin.Forms.Platform.Android.VisualElementRenderer`1;md5282f1122c1313907b9bf274dd2c2f344.VisualElementRenderer_1
+xamarin.forms.platform.android.VisualElementRenderer_1;md5282f1122c1313907b9bf274dd2c2f344.VisualElementRenderer_1
+Xamarin.Forms.Platform.Android.InnerGestureListener, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.InnerGestureListener
+Xamarin.Forms.Platform.Android.InnerGestureListener, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.InnerGestureListener
+Xamarin.Forms.Platform.Android.InnerGestureListener;md5282f1122c1313907b9bf274dd2c2f344.InnerGestureListener
+xamarin.forms.platform.android.InnerGestureListener;md5282f1122c1313907b9bf274dd2c2f344.InnerGestureListener
+Xamarin.Forms.Platform.Android.VisualElementTracker/AttachTracker, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.VisualElementTracker_AttachTracker
+Xamarin.Forms.Platform.Android.VisualElementTracker+AttachTracker, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.VisualElementTracker_AttachTracker
+Xamarin.Forms.Platform.Android.VisualElementTracker.AttachTracker;md5282f1122c1313907b9bf274dd2c2f344.VisualElementTracker_AttachTracker
+xamarin.forms.platform.android.VisualElementTracker_AttachTracker;md5282f1122c1313907b9bf274dd2c2f344.VisualElementTracker_AttachTracker
+Xamarin.Forms.Platform.Android.PickerRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer
+Xamarin.Forms.Platform.Android.PickerRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer
+Xamarin.Forms.Platform.Android.PickerRenderer;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer
+xamarin.forms.platform.android.PickerRenderer;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer
+Xamarin.Forms.Platform.Android.PickerRenderer/PickerListener, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer_PickerListener
+Xamarin.Forms.Platform.Android.PickerRenderer+PickerListener, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer_PickerListener
+Xamarin.Forms.Platform.Android.PickerRenderer.PickerListener;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer_PickerListener
+xamarin.forms.platform.android.PickerRenderer_PickerListener;md5282f1122c1313907b9bf274dd2c2f344.PickerRenderer_PickerListener
+Xamarin.Forms.Platform.Android.OpenGLViewRenderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer
+Xamarin.Forms.Platform.Android.OpenGLViewRenderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer
+Xamarin.Forms.Platform.Android.OpenGLViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer
+xamarin.forms.platform.android.OpenGLViewRenderer;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer
+Xamarin.Forms.Platform.Android.OpenGLViewRenderer/Renderer, Xamarin.Forms.Platform.Android;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer_Renderer
+Xamarin.Forms.Platform.Android.OpenGLViewRenderer+Renderer, Xamarin.Forms.Platform.Android, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer_Renderer
+Xamarin.Forms.Platform.Android.OpenGLViewRenderer.Renderer;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer_Renderer
+xamarin.forms.platform.android.OpenGLViewRenderer_Renderer;md5282f1122c1313907b9bf274dd2c2f344.OpenGLViewRenderer_Renderer

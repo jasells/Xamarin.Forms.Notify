@@ -1,0 +1,5 @@
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.iOS\obj\iPhone\Debug\Xamarin.Forms.Notify.iOS.csprojResolveAssemblyReference.cache

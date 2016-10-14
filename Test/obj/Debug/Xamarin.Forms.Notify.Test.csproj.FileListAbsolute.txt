@@ -1,0 +1,15 @@
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Notify.Test.dll
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Notify.Test.pdb
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Notify.dll
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Notify.pdb
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\obj\Debug\Xamarin.Forms.Notify.Test.csprojResolveAssemblyReference.cache
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\obj\Debug\Xamarin.Forms.Notify.Test.HeartBeat.xaml.g.cs
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\obj\Debug\Xamarin.Forms.Notify.Test.dll
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\obj\Debug\Xamarin.Forms.Notify.Test.pdb
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\obj\Debug\Xamarin.Forms.Notify.Test.dll.mdb
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Test\bin\Debug\Xamarin.Forms.Notify.Test.dll.mdb

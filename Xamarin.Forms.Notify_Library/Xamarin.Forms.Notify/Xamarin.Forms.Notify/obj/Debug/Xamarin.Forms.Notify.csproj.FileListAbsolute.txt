@@ -1,9 +1,0 @@
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\bin\Debug\Xamarin.Forms.Notify.dll
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\bin\Debug\Xamarin.Forms.Notify.pdb
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\obj\Debug\Xamarin.Forms.Notify.dll
-C:\Users\Carol\Desktop\LIBRARY for GITHUB\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\obj\Debug\Xamarin.Forms.Notify.pdb

@@ -1,0 +1,11 @@
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\Xamarin.Forms.Notify.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\App.g.i.cs
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\App.g.cs
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\App.xaml
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\MainPage.xaml
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\App.xbf
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\MainPage.xbf
+C:\Users\Carol\Desktop\GitHub Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify\Xamarin.Forms.Notify.Windows\obj\Debug\XamlSaveStateFile.xml
